@@ -1,4 +1,4 @@
-/* Problem: Two Sum (https://leetcode.com/problems/contains-duplicate/)
+/* Problem: Contains Duplicate (https://leetcode.com/problems/contains-duplicate/)
  * Difficulty: Easy
  * Time: O(n), Space: O(n)
  * Thought Process: Using an ordered_set since we want to be able to quickly
